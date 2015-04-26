@@ -1,0 +1,16 @@
+MISION 1
+
+aprendiendo Arreglos
+
+Se tiene el siguiente Arreglo definido en JavaScript*/
+var citricos = new Array('Naranja','Limon','Mandarina','Platano');
+/*se pide:
+
+a.- el Número de frutas contenidos en el Arreglo y mostrarlo por consola. 
+b.- Remueve el último elemento del Arreglo y muestra por consola éste elemento.
+c.- Añade estos elementos 'Lima','Pomelo' al final del Arreglo y retorna la nueva longitud del Arreglo por consola.
+d.- Accede al primer elemento y muestra su valor por consola.
+e.- Recorre todo el arreglo y muestra por consola cada elemento.
+
+
+
