@@ -2,9 +2,10 @@
 
 aprendiendo Arreglos
 
-Se tiene el siguiente Arreglo definido en JavaScript*/
+Se tiene el siguiente Arreglo definido en JavaScript
 var citricos = new Array('Naranja','Limon','Mandarina','Platano');
-/*se pide:
+
+se pide:
 
 a.- el Número de frutas contenidos en el Arreglo y mostrarlo por consola. 
 b.- Remueve el último elemento del Arreglo y muestra por consola éste elemento.
